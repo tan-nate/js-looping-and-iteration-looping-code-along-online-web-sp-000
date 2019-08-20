@@ -5,3 +5,10 @@ function writeCards(names, occasion) {
     newArr.push("Thank you, ${names[i]}, for the wonderful ${occasion} gift.")
   }
 }
+
+function countdown() {
+  let countdown = 0;
+  while (countdown > 0) {
+    console.log(countdown);
+  }
+}
