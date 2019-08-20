@@ -7,8 +7,8 @@ function writeCards(names, occasion) {
 }
 
 function countdown() {
-  let countdown = 0;
-  while (countdown > 0) {
-    console.log(countdown);
+  let num = 0;
+  while (num > 0) {
+    console.log(num);
   }
 }
